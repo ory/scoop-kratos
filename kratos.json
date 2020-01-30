@@ -1,19 +1,19 @@
 {
-    "version": "0.0.3-alpha.3",
+    "version": "0.0.3-alpha.4",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/ory/kratos/releases/download/v0.0.3-alpha.3/kratos_0.0.3-alpha.3_windows_32bit.zip",
+            "url": "https://github.com/ory/kratos/releases/download/v0.0.3-alpha.4/kratos_0.0.3-alpha.4_windows_32bit.zip",
             "bin": [
                 "kratos.exe"
             ],
-            "hash": "32dab36e84f59bfa3eb6542af0326bb39ded56d3ca2ab5339768099f1a11c679"
+            "hash": "463f0ded1aa366dd1d1584af866958920f474124ca2a3f17aafc9ecab410ad8f"
         },
         "64bit": {
-            "url": "https://github.com/ory/kratos/releases/download/v0.0.3-alpha.3/kratos_0.0.3-alpha.3_windows_64bit.zip",
+            "url": "https://github.com/ory/kratos/releases/download/v0.0.3-alpha.4/kratos_sqlite_0.0.3-alpha.4_windows_64bit.zip",
             "bin": [
-                "kratos.exe"
+                "kratos-sqlite.exe"
             ],
-            "hash": "4ca17bf0fb6c13d23d21d262c369fd8b41e405b65d4f310e9567c8a3f32ef4ba"
+            "hash": "fa6a198b93438b27e04b30dfdba75a95a6e7c9fe5b4a422c68417a3913afd048"
         }
     },
     "homepage": "https://www.ory.sh"
